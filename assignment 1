@@ -1,0 +1,2 @@
+x='aditya degree'
+print(x[1:12])
